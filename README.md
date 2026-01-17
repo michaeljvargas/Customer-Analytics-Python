@@ -3,8 +3,6 @@
 ## Live Analytics Report
 👉 https://michaeljvargas.github.io/Customer-Analytics-Python/customer_analysis.html
 
-)
-)
 
 ---
 
@@ -69,3 +67,66 @@ The dataset structure mirrors common transaction-level data used in analytics, f
 ---
 
 ## Project Structure
+Customer-Analytics-Python/
+│
+├── data/
+│ └── transactions.csv
+│
+├── notebooks/
+│ └── customer_analysis.ipynb
+│
+├── docs/
+│ └── index.html # Live analytics report
+│
+├── requirements.txt
+└── README.md
+
+
+---
+
+## How to Run Locally
+1. Clone the repository:
+
+
+git clone https://github.com/michaeljvargas/Customer-Analytics-Python.git
+
+
+2. Install dependencies:
+
+
+pip install -r requirements.txt
+
+
+3. Open the notebook:
+
+
+notebooks/customer_analysis.ipynb
+
+
+4. Run all cells to reproduce the analysis.
+
+---
+
+## Why This Project Matters
+This project highlights the ability to:
+- Translate raw data into business insights
+- Communicate analytical findings clearly
+- Balance technical execution with business context
+- Deliver results in a stakeholder-friendly format
+
+It reflects real-world expectations for roles in business analytics, risk analysis, fraud analytics, and fintech.
+
+---
+
+## Future Enhancements
+- Expand the dataset to include longer time horizons
+- Add customer segmentation or cohort analysis
+- Build an interactive dashboard using Streamlit
+- Integrate forecasting or anomaly detection models
+
+---
+
+## Author
+Michael Vargas  
+Business Analytics | Risk | FinTech | Python
+
