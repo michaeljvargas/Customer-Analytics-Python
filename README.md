@@ -1,7 +1,10 @@
 # Customer Analytics with Python
 
 ## Live Analytics Report
-👉 https://michaeljvargas.github.io/Customer-Analytics-Python/
+👉 https://michaeljvargas.github.io/Customer-Analytics-Python/customer_analysis.html
+
+)
+)
 
 ---
 
